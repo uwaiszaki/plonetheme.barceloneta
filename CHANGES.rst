@@ -15,7 +15,8 @@ New features:
 
 Bug fixes:
 
-- *add item here*
+- Fixed Plone icon fontname from Fontello to plone-icons.
+  [agitator]
 
 
 1.6.21 (2016-06-07)
