@@ -4104,7 +4104,7 @@ ul.picker__list {
   border: 1px solid white;
   border-radius: 4px;
   /*
-  .icon-bar {
+  .plone-icon-bar {
     display: block;
     width: 22px;
     height: 2px;
@@ -4112,10 +4112,10 @@ ul.picker__list {
     background: white;
     margin-top: 2px;
   }
-  .icon-bar + .icon-bar {
+  .plone-icon-bar + .plone-icon-bar {
     margin-top: 5px;
   }
-  .icon-bar + .icon-bar + .icon-bar {
+  .plone-icon-bar + .plone-icon-bar + .plone-icon-bar {
     margin-bottom: 3px;
   }
   //end burgerbar icon-bar
@@ -4128,12 +4128,12 @@ ul.picker__list {
   background-color: #6499c0;
   border-color: #4581ab;
 }
-.navbar-toggle .icon-bar:after {
+.navbar-toggle .plone-icon-bar:after {
   content: "Menu";
   position: relative;
   color: white;
 }
-.navbar-toggle .icon-bar + .icon-bar:after {
+.navbar-toggle .plone-icon-bar + .plone-icon-bar:after {
   content: "";
 }
 @media (min-width: 768px) {
