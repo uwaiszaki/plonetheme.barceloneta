@@ -3345,7 +3345,7 @@ a.link-category:focus {
   display: inline-block;
 }
 body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]:before {
-  font-family: "Fontello";
+  font-family: "plonefontello";
   font-size: 100%;
   padding: 0;
   margin: 0;
@@ -3389,7 +3389,7 @@ body#visual-portal-wrapper.pat-plone #edit-zone a {
   color: #fff;
 }
 body#visual-portal-wrapper.pat-plone #edit-zone [class*="contenttype-"]:after {
-  font-family: "Fontello";
+  font-family: "plonefontello";
   font-size: 100%;
   padding: 0;
   margin: 0;
